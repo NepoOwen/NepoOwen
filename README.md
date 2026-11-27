@@ -8,7 +8,7 @@
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nepo&left_text=visitors&left_color=%2314141a&right_color=%238f8fff">
 </div>
 
-## `~/about`
+## <img src="assets/headings/about.svg" alt="~/about" height="40">
 
 I take games apart to see how they work, then build on top of what I find.
 
@@ -19,7 +19,7 @@ I'm a self-taught programmer from Gothenburg, Sweden, with 5+ years of writing C
 - Tools for comparing and analysing Windows binaries
 - Desktop apps, launchers and the websites around them
 
-## `~/now`
+## <img src="assets/headings/now.svg" alt="~/now" height="40">
 
 Most of my time goes into **Pyrodisc**, which I build and run.
 
@@ -29,7 +29,7 @@ Most of my time goes into **Pyrodisc**, which I build and run.
 
 [Website](https://www.pyrodisc.one) · [Docs](https://docs.pyrodisc.one) · [GitHub](https://github.com/Pyrodisc) · [Discord](https://discord.gg/MpgUcSdNH6)
 
-## `~/projects`
+## <img src="assets/headings/projects.svg" alt="~/projects" height="40">
 
 <a href="https://github.com/NepoOwen/trove-network-client"><img width="49%" src="assets/cards/trove-network-client.svg" alt="trove-network-client: a fully standalone client that connects to Trove's servers and sends packets. C++"></a>
 <a href="https://github.com/NepoOwen/rose-launcher"><img width="49%" src="assets/cards/rose-launcher.svg" alt="rose-launcher: a lightweight, fully local Trove launcher. TypeScript, Tauri, React"></a>
@@ -38,12 +38,12 @@ Most of my time goes into **Pyrodisc**, which I build and run.
 <a href="https://github.com/NepoOwen/sq-playerhud"><img width="49%" src="assets/cards/sq-playerhud.svg" alt="sq-playerhud: a player HUD mod for Trove. ActionScript"></a>
 <a href="https://github.com/NepoOwen/library-of-babel-lua"><img width="49%" src="assets/cards/library-of-babel-lua.svg" alt="library-of-babel-lua: a recreation of the Library of Babel. Lua, SDL2"></a>
 
-## `~/stack`
+## <img src="assets/headings/stack.svg" alt="~/stack" height="40">
 
 <img src="assets/stack.svg" alt="C++ 33%, TypeScript 21%, Python 21%, C 6%, Lua 5%, ActionScript 5%">
 
 <sub>Share of the code in my public repositories.</sub>
 
-## `~/contact`
+## <img src="assets/headings/contact.svg" alt="~/contact" height="40">
 
 Open to ideas and to working together. The fastest way to reach me is Discord: `@nepo._.`
